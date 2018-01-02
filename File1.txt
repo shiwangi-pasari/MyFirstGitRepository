@@ -1,5 +1,5 @@
-Happy New Year 2018..!!
-Welcome to Git!
+Happy New Year 2018..!! yey..!!!
+Welcome to Git..!
 
 change1.
 .
@@ -7,3 +7,7 @@ change1.
 change1 ends
 
 change2
+
+change 3
+
+hoooo
