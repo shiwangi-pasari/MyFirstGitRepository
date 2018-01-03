@@ -4,10 +4,10 @@ Welcome to Git..!
 change1.
 .
 /
-change1 ends
+Change - 1 ends
 
-change2
+Change - 2
 
-change 3
+Change - 3
 
 hoooo
